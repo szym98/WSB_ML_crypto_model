@@ -1,8 +1,6 @@
-Temat projektu: Przewidywanie cen kryptowalut na podstawie modelu prostej sieci neuronowej (MLP)
-.
-.
-.
+Temat projektu: Przewidywanie cen kryptowalut na podstawie modelu prostej sieci neuronowej (MLPRegressor)
 
-https://demo-futures.kraken.com/futures/PF_XBTUSD
-login: 4r80mqpv@futures-demo.com
-haslo: zard9b3e2wpqnnemy9sm
+* skupić się na dynamice cen, aniżeli na wartościach bezwzglęnych
+* dodać wykresy strat
+* dodać wartości precyzji modelów
+* dodać macierze pomyłek (?)
