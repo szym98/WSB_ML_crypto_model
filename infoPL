@@ -1,6 +1,0 @@
-Temat projektu: Przewidywanie cen kryptowalut na podstawie modelu prostej sieci neuronowej (MLPRegressor)
-
-* skupić się na dynamice cen, aniżeli na wartościach bezwzglęnych
-* dodać wykresy strat
-* dodać wartości precyzji modelów
-* dodać macierze pomyłek (?)
